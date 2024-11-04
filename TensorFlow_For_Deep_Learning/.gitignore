@@ -6,5 +6,6 @@
 .ipynb_checkpoints/
 
 venv/
+new_venv/
 
 *.zip
