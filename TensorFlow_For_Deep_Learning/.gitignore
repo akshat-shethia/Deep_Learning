@@ -7,5 +7,6 @@
 
 venv/
 new_venv/
+10_food_classes_all_data/
 
 *.zip
